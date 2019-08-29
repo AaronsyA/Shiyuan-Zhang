@@ -1,7 +1,6 @@
 ## Biography
 I am a Ph.D. student in the department of Computer Science, [Tulane University](https://tulane.edu/), advised by [Prof. Zizhan Zheng](https://sse.tulane.edu/node/3486). Previously I got my B.E. and M.E. degree in computer science from [Xi'an Jiaotong University](http://www.xjtu.edu.cn/), advised by [Prof. Wei Xi](http://gr.xjtu.edu.cn/web/xiwei). 
 My current research interest is networks and AI.  For detailed information, please see my [CV/Resume.](https://github.com/geekfeiw/geekfeiw.github.io/blob/master/CV/CV_FEIWANG.pdf) 
-<img src="https://github.com/AaronsyA/Shiyuan-Zhang/blob/master/me.jpg" width = "35%" height = "35%" alt="nsfc" /> 
 
 ## Education
 ***2019.08-Present***  *Ph.D. candidate*, Computer Science, Tulane University, United States
