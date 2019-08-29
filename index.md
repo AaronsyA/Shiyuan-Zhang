@@ -10,4 +10,4 @@ My current research interest is networks and AI.  For detailed information, plea
 ***2012.09-2016.06*  B.E. degree, Computer Science and Technology, *Xi'an Jiaotong University*, China**
 
 ## Research Interests
-**Networks, Mobile computing and Machine Learning
+**Networks, Mobile computing and Machine Learning**
