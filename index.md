@@ -3,8 +3,8 @@ I am a Ph.D. student in the department of Computer Science, [Tulane University](
 My current research interest is networks and AI.  For detailed information, please see my [CV/Resume.](https://github.com/geekfeiw/geekfeiw.github.io/blob/master/CV/CV_FEIWANG.pdf) 
 
 ## Education
-2019.08-Present Ph.D. candidate, Department of Computer Science, Tulane University, United States
+***2019.08-Present* Ph.D. candidate, Computer Science, *Tulane University*, United States**
 
-2016.09-2019.06 M.E. degree, Department of Computer Science and Technology, Xi'an Jiaotong University, CHina
+***2016.09-2019.06* M.E. degree, Computer Science and Technology, Xi'an Jiaotong University, CHina**
 
-2012.09-2016.06 B.E. degree, Department of Computer Science and Technology, Xi'an Jiaotong University, China
+***2012.09-2016.06* B.E. degree, Computer Science and Technology, Xi'an Jiaotong University, China**
